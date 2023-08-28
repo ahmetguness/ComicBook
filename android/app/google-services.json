@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_id": "cizgiromanapp-62966",
+    "storage_bucket": "cizgiromanapp-62966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.example.comicappcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982583783701-h16mrducgq6fasihnt8be36h7gs0dgqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
