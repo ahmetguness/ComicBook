@@ -1,11 +1,13 @@
 {
   "project_info": {
+    "project_number": "982583783701",
     "project_id": "cizgiromanapp-62966",
     "storage_bucket": "cizgiromanapp-62966.appspot.com"
   },
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:982583783701:android:b3337e5eeaf23a2440b91c",
         "android_client_info": {
           "package_name": "com.example.comicappcode"
         }
@@ -18,12 +20,14 @@
       ],
       "api_key": [
         {
+          "current_key": "AIzaSyCaF4OAf6Pdk6t0LeVWlZZMsNb0IL-N59I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
+              "client_id": "982583783701-h16mrducgq6fasihnt8be36h7gs0dgqh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
